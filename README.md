@@ -1,6 +1,4 @@
-# PB-Starter-SCSS-BrowserSync
-
-`rm -rf .git*`
+# Artnova Logofolio
 
 `npm install -g gulp-cli`
 
