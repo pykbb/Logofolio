@@ -308,7 +308,7 @@ template {
   display: none; }
 
 @font-face {
-  font-family: Karantina;
+  font-family: Karantina-Regular;
   src: url(../../assets/fonts/Karantina-Regular.ttf); }
 
 @font-face {
@@ -430,15 +430,15 @@ svg, img {
             justify-content: center; }
 
 .title {
-  color: #4F4F4F;
-  font-family: RobotoCondensed-Regular; }
+  font-family: RobotoCondensed-Regular;
+  color: #4F4F4F; }
 
 .number {
+  font-family: Karantina-Regular;
   color: #FFF;
   font-size: 60px;
   font-weight: 400;
   line-height: 60px;
-  text-transform: uppercase;
-  font-family: Karantina; }
+  text-transform: uppercase; }
 
 /*# sourceMappingURL=main.css.map */
