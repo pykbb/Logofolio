@@ -1,3 +1,12 @@
-$black: #000;
-$white: #FFF;
-$yellow: #F9C802;
+$bg: #E0DFDD;
+
+
+@font-face {
+    font-family: Karantina;
+    src: url(../../assets/fonts/Karantina-Regular.ttf);
+}
+
+@font-face {
+    font-family: RobotoCondensed-Regular;
+    src: url(../assets/fonts/RobotoCondensed-Regular.ttf);
+}
