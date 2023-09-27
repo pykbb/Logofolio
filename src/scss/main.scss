@@ -25,6 +25,11 @@ svg, img {
   display: flex;
   align-items: center;
   justify-content: center;
+  background: rgb(0,0,0);
+  background: -moz-linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(84,84,84,0.9472382703081232) 50%, rgba(0,0,0,1) 100%);
+  background: -webkit-linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(84,84,84,0.9472382703081232) 50%, rgba(0,0,0,1) 100%);
+  background: linear-gradient(180deg, rgba(0,0,0,1) 0%, rgba(84,84,84,0.9472382703081232) 50%, rgba(0,0,0,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
 }
 
 .triangle {
