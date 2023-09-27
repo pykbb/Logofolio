@@ -332,7 +332,7 @@ svg, img {
 
 .one {
   background-color: #E0DFDD;
-  min-height: 100vh;
+  min-height: 979px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
