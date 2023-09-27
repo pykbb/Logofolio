@@ -331,7 +331,7 @@ svg, img {
   height: auto; }
 
 .one {
-  background-color: #000;
+  background-color: #E0DFDD;
   min-height: 979px;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -342,11 +342,10 @@ svg, img {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: black;
-  background: -webkit-gradient(linear, left top, left bottom, from(black), color-stop(50%, rgba(84, 84, 84, 0.947238)), to(black));
-  background: -o-linear-gradient(top, black 0%, rgba(84, 84, 84, 0.947238) 50%, black 100%);
-  background: linear-gradient(180deg, black 0%, rgba(84, 84, 84, 0.947238) 50%, black 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1); }
+  background-image: url(../assets/img/bitmap.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; }
 
 .triangle {
   width: 0;
