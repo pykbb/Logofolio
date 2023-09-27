@@ -332,7 +332,7 @@ svg, img {
 
 .one {
   background-color: #E0DFDD;
-  min-height: 979px;
+  min-height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -345,7 +345,7 @@ svg, img {
   background-image: url(../assets/img/bitmap.png);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center; }
+  background-position: bottom; }
 
 .triangle {
   width: 0;
