@@ -1,4 +1,4 @@
-# Artnova Logofolio
+# Logofolio
 
 `npm install -g gulp-cli`
 
